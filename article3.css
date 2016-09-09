@@ -1,0 +1,41 @@
+h1 {text-align: center;
+    text-align;
+    border-top-width: inherit;
+    font-size: 24pt;
+    border-style: solid;
+    border-left-color:white;
+    border-right-color:white;
+    border-top-color:white;
+    border-bottom-color:white;
+    background-color:white;
+    border-width: medium;
+    height: 260px;
+    width: 100%;
+    }
+
+
+nav {text-align: center;
+     color: gray;
+     margin-top: inherit;
+     }
+
+a   {color: gray;
+     font-size: 32pt;
+}
+
+div {text-align: center;
+     top: 0;
+}
+
+h2  {font-size: 44pt;
+     color: red;
+     text-align: center;
+}
+
+h3  {font-size: 36pt;
+     color: blue;
+     text-align: center}
+
+p   {color: black;
+     font-size: 28pt;
+}
