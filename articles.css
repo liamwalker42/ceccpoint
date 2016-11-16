@@ -1,10 +1,6 @@
-body {background-color: white;
+body{color: red;
+     font-size: 42pt;
 }
-
-
-
-
-
 
 h1 {text-align: center;
     text-align;
@@ -19,14 +15,16 @@ h1 {text-align: center;
     border-width: medium;
     height: 260px;
     width: 100%;
-    }
+ }
+h2  {font-size: 48pt;
+}
 
 nav {text-align: center;
-     color: gray;
-     margin-top: inherit;
-     }
+       color: gray;
+       margin-top: inherit;
+ }
 
-a   {color: blue;
+a   {color: gray;
      font-size: 32pt;
 }
 
@@ -34,9 +32,11 @@ div {text-align: center;
      top: 0;
 }
 
-h2  {text-align: left;
-     font-size: 38pt;
+li  {color: red;
 }
+ 
+
+
 
 
 
