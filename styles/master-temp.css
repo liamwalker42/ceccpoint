@@ -11,3 +11,11 @@ body {
 .text-container {
     background-color: white;
 }
+
+.navbar {
+    background-color: darkblue;
+}
+
+.nav-item {
+    text-align: center;
+}
