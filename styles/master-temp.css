@@ -14,9 +14,9 @@ body {
     text-align: center;
 }
 
-nav ul li a {
-	color: white;
-	text-decoration: none;
+nav a {
+    color: white;
+    text-decoration: none;
 }
 
 /*
